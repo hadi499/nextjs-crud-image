@@ -1,0 +1,23 @@
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+# DATABASE_URL="postgresql://hadi:admin123@localhost:5432/image_db?schema=public"
+
+POSTGRES_URL="xxxxx"
+POSTGRES_PRISMA_URL="xxxxxxx"
+SUPABASE_URL="xxx"
+NEXT_PUBLIC_SUPABASE_URL="xxxxx"
+POSTGRES_URL_NON_POOLING="xxx"
+SUPABASE_JWT_SECRET="xxxx"
+POSTGRES_USER="xxxxx"
+NEXT_PUBLIC_SUPABASE_ANON_KEY=""
+POSTGRES_PASSWORD="lJonn13bfGdOh0z0"
+POSTGRES_DATABASE="postgres"
+SUPABASE_SERVICE_ROLE_KEY="eyJhbGciOiJIUzI2Njc0NzA0fQ.7nLenv_aOkh_1xAylACZxOARUoMHZ8Ml4fRSXGv4JaM"
+POSTGRES_HOST="db.muoliamsptdzjjhaewxb.supabase.co"
+SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIscwNH0.Z9JD06RtgAF08fo4g2YjTWBbvzpw_ciQi6g4fbPVmBs"
+
+BLOB_READ_WRITE_TOKEN="vej22RI"
